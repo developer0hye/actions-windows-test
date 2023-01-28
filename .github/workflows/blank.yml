@@ -29,4 +29,4 @@ jobs:
       - name: Check environments
         continue-on-error: true
         run: cmake --version \
-             cmake --help
+             cmake -G

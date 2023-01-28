@@ -28,4 +28,5 @@ jobs:
       # Runs a single command using the runners shell
       - run: cmake --version
       - run: cmake --help
-             
+      - run: ls "C:\Program Files (x86)\Microsoft Visual Studio\
+      - run: ls "C:\Program Files\Microsoft Visual Studio\

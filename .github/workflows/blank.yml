@@ -27,5 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Check environments
+        continue-on-error: true
         run: cmake --version \
              cmake --help

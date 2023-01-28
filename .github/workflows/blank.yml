@@ -30,4 +30,4 @@ jobs:
       - run: cmake --help
       - run: ls "C:\Program Files (x86)\Microsoft Visual Studio\"
       - run: ls "C:\Program Files\Microsoft Visual Studio\"
-      - run: ls "C:\Program Files\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC"
+      - run: ls "C:\Program Files\Microsoft Visual Studio\2022\"
